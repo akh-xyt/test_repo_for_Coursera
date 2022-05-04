@@ -1,2 +1,2 @@
 # test_repo_for_Coursera
-Test Description
+I am editing the README file. Adding some more details about the pproject description.
